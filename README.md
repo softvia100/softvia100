@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/openagent/openagent/main/assets/logo-dark.svg" alt="OpenAgent" width="280" />
+<img src="https://raw.githubusercontent.com/softvia100/openagent/logo1.png" alt="OpenAgent" width="280" />
 
 <br />
 <br />
