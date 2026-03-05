@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/softvia100/OpenAgent/logo1.png" alt="OpenAgent" width="280" />
+<img src="https://tse1.mm.bing.net/th/id/OIP.JX1Ij3Hvj3JMTP6pYnVG4gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="OpenAgent" width="280" />
 
 <br />
 <br />
